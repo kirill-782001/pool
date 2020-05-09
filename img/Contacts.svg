@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="365" height="197" viewBox="0 0 365 197">
+  <defs>
+    <filter id="Email" x="0" y="0" width="365" height="197" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#8c8c8c"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_194" data-name="Group 194" transform="translate(-5 -3444)">
+    <g transform="matrix(1, 0, 0, 1, 5, 3444)" filter="url(#Email)">
+      <rect id="Email-2" data-name="Email" width="305" height="137" rx="18" transform="translate(30 30)" fill="#fff"/>
+    </g>
+    <text id="_8_921_307-24-03_" data-name="8 (921) 307-24-03 " transform="translate(130 3575)" fill="#313234" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="21">8 (921) 307-24-03 </tspan></text>
+    <path id="phone-solid" d="M28.9,1.431,22.806.025a1.415,1.415,0,0,0-1.611.814L18.382,7.4a1.4,1.4,0,0,0,.4,1.641l3.551,2.906A21.715,21.715,0,0,1,11.955,22.331L9.049,18.78a1.4,1.4,0,0,0-1.641-.4L.846,21.189a1.423,1.423,0,0,0-.82,1.617L1.432,28.9A1.406,1.406,0,0,0,2.8,29.989,27.184,27.184,0,0,0,29.99,2.8,1.4,1.4,0,0,0,28.9,1.431Z" transform="translate(60.01 3482.011)" fill="#313234"/>
+    <line id="Line_16" data-name="Line 16" x1="305" transform="translate(35.5 3519.5)" fill="none" stroke="#e7f8ff" stroke-width="3"/>
+    <line id="Line_17" data-name="Line 17" x2="305" transform="translate(35.5 3565.5)" fill="none" stroke="#e6f7ff" stroke-width="3"/>
+    <text id="_8_812_688-67-58" data-name="8 (812) 688-67-58" transform="translate(130 3529)" fill="#313234" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="21">8 (812) 688-67-58</tspan></text>
+    <text id="_8_993_221-19-44" data-name="8 (993) 221-19-44" transform="translate(130 3504)" fill="#313234" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">8 (993) 221-19-44</tspan></text>
+  </g>
+</svg>
